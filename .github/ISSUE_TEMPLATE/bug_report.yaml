@@ -2,8 +2,7 @@ name: 🐞 Bug
 description: File a bug/issue
 title: "[BUG] <title>"
 labels: ["Bug", "Needs Triage"]
-assignees: [ASSIGNEES]
-projects: [DASHBOARD]
+assignees: []
 body:
 - type: checkboxes
   attributes:

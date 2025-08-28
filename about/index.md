@@ -32,6 +32,4 @@ We will drive the open development of sovereign AI capabilities that address Jap
 We will collaborate to advance open-source AI research and development for industrial applications such as manufacturing, semiconductors, shipping and navigation, where reliable, accurate, domain-enriched AI systems are essential to success
 
 ## Communication Channels
-- **[Discord]({{ site.discord_link }})**: Real-time collaboration and support
 - **[GitHub Discussions](https://github.com/The-AI-Alliance/japan/discussions/)**: Ask questions, meet your community and asynchronous collaboration.
-- **[Community Calls: Coming Soon]()**: Bi-weekly video meetings  
